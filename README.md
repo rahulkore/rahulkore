@@ -1,9 +1,10 @@
 Hi 👋 My name is Rahul Kore
 ===========================
 
-I am in the Industry since last two years , working for Tata Consultancy Service Limited as a Software developer for their client GE Healthcare , The project is of ministry of health saudi arabia
+I am in the Industry since last two years , worked for Tata Consultancy Service Limited as a Software developer for their client GE Healthcare , The project is of ministry of health saudi arabia. 
+Now continuing my tech journey with Amazon.
 
-**soon will be joining Amazon as an SDE1**
+**SDE1 @ Amazon **
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [rahulkore976@gmail.com](mailto:rahulkore976@gmail.com)
