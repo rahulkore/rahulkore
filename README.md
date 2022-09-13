@@ -8,7 +8,7 @@ Now continuing my tech journey with Amazon.
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [rahulkore976@gmail.com](mailto:rahulkore976@gmail.com)
-* 🚀  I'm currently working on [Mawid](http://mawidstf.moh.gov.sa)
+* 🚀  I'm currently working with VASTech Team Amazon
 
 <a href="https://www.github.com/rahulkore" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rahulkore?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
