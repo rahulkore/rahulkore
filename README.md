@@ -1,10 +1,9 @@
 Hi 👋 My name is Rahul Kore
 ===========================
 
-I am in the Industry since last two years , worked for Tata Consultancy Service Limited as a Software developer for their client GE Healthcare , The project is of ministry of health saudi arabia. 
-Now continuing my tech journey with Amazon.
+I am in the Industry since last three years , worked for Tata Consultancy Service Limited as a Software developer in the healthcare doamain , Throughout my tenure at TCS I worked for a single project(CAS Centralized Appointment Scheduling), a saudi arabia ministry of health project. After a very fruitful journey of almost 2 years landed a job at Amazon and now continuing my tech journey with Amazon's Value Added Services Tech Team in hyderabad. I joined as an SDE1 and was exposed to a exponential learning curve. After a year and so and all the hardwork paid off and got promoted to SDE2. 
 
-**SDE1 @ Amazon**
+**SDE2 @ Amazon**
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [rahulkore976@gmail.com](mailto:rahulkore976@gmail.com)
